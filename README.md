@@ -11,7 +11,7 @@
 This entire project framework, core methodology, and neural network design are heavily inspired by and directly implemented from the following foundational research paper:
 
 > **[A Comprehensive Approach to Indian Sign Language Recognition: Leveraging LSTM and MediaPipe Holistic for Dynamic and Static Hand Gesture Recognition](https://publications.eai.eu/index.php/airo/article/view/8693)**  
-> *Authors: Divyanshi Rawat, et al.*  
+> *Authors: Prachi Rawat, et al.*  
 > *Published in: EAI Endorsed Transactions on AI and Robotics (May 2025)*
 
 **All credit for the structural concept**—combining MediaPipe Holistic spatial landmark extraction with a purely temporal, SELU-activated Sequential LSTM architecture for Indian Sign Language—belongs to the original authors. 
