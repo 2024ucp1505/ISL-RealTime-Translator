@@ -25,10 +25,11 @@ Our repository serves as a fully functional, open-source applied implementation 
 Our architecture translates complex dynamic and static ISL gestures into text in **real-time** directly from a live webcam feed.
 
 ### 🌟 Project Highlights
-- **98.00% Real-World Test Accuracy** (Exceeds research paper baseline of 96.97%)
-- Real-time sentence construction with live inference HUD interface
+- **98.00% Test Accuracy** (Exceeds research paper baseline of 96.97%)
+- Real-time translation of 11 ISL gestures into text
 - Advanced mathematical data normalization making predictions fully position-invariant
 - Live, highly scalable pipeline covering Data Collection → Preprocessing → Training → Inference
+- 📚 **Learning Resource:** To learn all 11 gestures and more about Indian Sign Language, refer to the [Official ISL Portal](https://cs.rkmvu.ac.in/~isl/)
 
 ---
 
@@ -66,8 +67,11 @@ flowchart TD
 
 <div align="center">
   <img src="media/Screenshot%202026-03-24%20223900.png" width="400">
-  <img src="media/Screenshot%202026-03-24%20223922.png" width="400">
   <p><em>Details from the research architecture design.</em></p>
+</div>
+<div align='center'>
+    <img src="media/Screenshot%202026-03-24%20223922.png" width="400">
+    <p><em>Examples of some gestures in ISL</em></p>
 </div>
 
 ---
