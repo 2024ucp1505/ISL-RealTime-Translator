@@ -14,8 +14,6 @@ env/
 .env
 
 # Data and Models
-data/landmarks/
-data/videos/
 models/
 *.h5
 *.tflite
