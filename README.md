@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🤙 Real-Time Indian Sign Language (ISL) Translator</h1>
   <p><em>An end-to-end framework leveraging MediaPipe Holistic and LSTM Neural Networks</em></p>
-  <img src="media/Screenshot%202026-03-24%20223842.png" alt="Model Demo" width="800">
+  <img src="media/image1.png" alt="Model Demo" width="800">
 </div>
 
 ---
@@ -66,11 +66,11 @@ flowchart TD
 - **Mathematical Normalization:** We subtract the spatial coordinates of the *hips* and *wrists* from all other respective points before training. The LSTM therefore trains purely on *relative movement and shape*, structurally ignoring where a physical person is framed in the camera lens.
 
 <div align="center">
-  <img src="media/Screenshot%202026-03-24%20223900.png" width="400">
+  <img src="media/image2.png" width="400">
   <p><em>Details from the research architecture design.</em></p>
 </div>
 <div align='center'>
-    <img src="media/Screenshot%202026-03-24%20223922.png" width="400">
+    <img src="media/image3.png" width="400">
     <p><em>Examples of some gestures in ISL</em></p>
 </div>
 
